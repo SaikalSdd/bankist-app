@@ -12,7 +12,7 @@ Bankist app - digital bank which stands for minimalist banking with online bank 
 
 ## Test the app:
 
-To test this app, go to , login using login credentials below:
+To test this app, go to https://saikalsdd.github.io/bankist-app/, login using login credentials below:
 
 | Username | PIN  |
 | -------- | ---- |
